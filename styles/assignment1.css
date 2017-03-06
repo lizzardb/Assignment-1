@@ -1,0 +1,11 @@
+h1 {font-family: sans-serif; text-align: center; }
+
+h2 {font-family: sans-serif; text-align: center; }
+
+.section1 {background-color: silver; }
+
+.section2 {background-color: red; color: gold; }
+
+#self {height: 25%; width: 25%; float: right; padding: 5px; }
+
+footer {font-style: italic; text-align: center; background-color: silver; }
